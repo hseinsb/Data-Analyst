@@ -1,0 +1,18 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "reports": {
+      ".read": true,
+      ".write": true,
+      "$report_id": {
+        ".read": true,
+        ".write": true
+      }
+    },
+    "test_connection": {
+      ".read": true,
+      ".write": true
+    }
+  }
+} 

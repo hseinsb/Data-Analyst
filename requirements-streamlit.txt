@@ -1,0 +1,13 @@
+streamlit==1.23.0
+pandas==2.0.1
+gspread==5.9.0
+google-auth==2.19.0
+openai==0.27.8
+python-dotenv==1.0.0
+google-api-python-client==2.86.0
+firebase-admin==6.2.0
+setuptools<60.0.0
+gcloud==0.18.3
+pyrebase4==4.7.1
+protobuf<=3.20.1
+pillow==9.5.0 --no-binary pillow 
